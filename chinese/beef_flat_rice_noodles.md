@@ -3,17 +3,11 @@
 ## Ingredients
 
 ### Marinated Beef
-- 340 g (3/4 lb) Thinly sliced flank steak
-- 1/2 tsp Salt
-- 1 tsp Sugar
-- 1/2 tsp Chicken bouillon powder
-- 1/2 tsp Soy sauce
-- Dash of Mirin
-- Dash of Sesame oil
-- 1 tsp Corn starch
-- A bit of Baking soda
+
+See [beef marinade](./beef_marinade.md)
 
 ### Rest of Dish
+
 - 12 oz flat rice noodles - separated
 - 4 Spring onions (cut to 2cm)
 - 1/2 Onion (chopped)
@@ -21,6 +15,7 @@
 - 2 Eggs
 
 ### Seasoning
+
 - 2 tsp Dark soy sauce
 - 1.5 tbsp Light soy sauce
 - 4 tsp oyster sauce
@@ -29,6 +24,7 @@
 - Dash of White pepper
 
 ## Instructions
+
 1. Heat up the wok to high heat (oil should start smoking)
 2. Spread out the beef evenly and leave until the edges start to brown. Then toss beef until mostly cooked and transfer to plate
 3. Crack the 2 eggs into hot wok and scramble
@@ -36,3 +32,8 @@
 5. Once it has colourised and crisped up, toss, and add beef and onions
 6. Add seasoning
 7. In the last 30s add the bean sprouts, shallots and garlic chives
+
+## Reference
+
+- https://www.instagram.com/tv/B_cFd7EDakP/
+- https://thewoksoflife.com/beef-chow-fun-noodles/
