@@ -54,7 +54,7 @@
 
 ## Instructions
 
-1. Marinade Pork Chops
+1. Marinate Pork Chops
 2. Make fried rice
 3. Make curry sauce
    1. Blend oil, garlic and shallots
