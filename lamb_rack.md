@@ -26,10 +26,13 @@
 2. Score the fat, season with salt and pepper, and place on pan with the fat-side up
 3. Roast at 230C (450F) for 10min
 4. Lower heat to 150C (300F) for another 10-20min; until internal temperature is
-   - 52C (125F) for rare; or
-   - 57C (135F) for medium rare
+   - 48-54C (120-130F) for rare; or
+   - 54-60C (130-140F) for medium rare; or
+   - 60-66C (140-150F) for medium; or
+   - 66-74C (150-165F) for well done
 5. Rest for 15min covered with foil before serving
 
 ## Reference
 
 - https://www.simplyrecipes.com/recipes/classic_rack_of_lamb/
+- http://greatgrub.com/reference/cooking_temperatures_for_lamb

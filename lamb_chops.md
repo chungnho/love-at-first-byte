@@ -31,7 +31,7 @@
 ### Cook
 
 4. Bring lamb chops to room temperature 2h before cooking
-5. Pan fry in skillet
+5. Pan fry in skillet (3-4min on each side)
    - Can also grill/broil, or bbq
 6. Rest before serving
 
