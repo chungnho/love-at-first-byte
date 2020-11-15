@@ -1,18 +1,18 @@
-# Ube Maracrons
+# Pandan Coconut Maracrons
 
 ## Ingredients
 
 ### Shells
 
 - See [macaron shells](./macaron_shells.md) for main ingredients
-- 3/4 tsp Ube flavouring
+- 1 tsp Pandan flavouring
 
 ### Filling
 
-- 60 g Salted butter (softened)
-- 50 g Icing sugar
-- 3 tbsp Ube Halaya
-- A few drops of Ube flavouring
+- 65 g Unsalted butter (softened)
+- 100 g Icing sugar
+- Pinch Salt
+- 3 tbsp Coconut milk
 
 ## Instructions
 
@@ -22,8 +22,8 @@
 ### Buttercream filling
 
 1. Beat softened butter
-2. Add icing sugar and beat until combined
-3. Add ube halaya and ube flavouring and combine well
+2. Add icing sugar and salt, and beat until combined
+3. Gradually beat in the coconut milk until all combined
 4. Transfer buttercream to piping bag
 
 ### Assembly
@@ -34,5 +34,5 @@
 
 ## Reference
 
-- https://entertainingwithbeth.com/foolproof-french-macaron-recipe/
+- https://www.bakedbyanintrovert.com/coconut-buttercream-frosting/
 
