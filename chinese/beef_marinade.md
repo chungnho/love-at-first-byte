@@ -7,6 +7,7 @@
 - 1 tsp Sugar
 - 1/2 tsp Chicken bouillon powder
 - 1/2 tsp Soy sauce
+- Pinch of White pepper
 - Dash of Mirin
 - Dash of Sesame oil
 - 1 tsp Corn starch
