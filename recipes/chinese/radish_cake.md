@@ -4,7 +4,7 @@
 
 ### Main
 
-- ~1.2 kg Chinese radish (err on the side of more)
+- ~1.2 kg Chinese radish after cleaned and peeled (~1.3-1.4kg)
 - 300 g Rice flour
 - 1/2 tbsp Salt
 - 1/8 tsp White pepper
@@ -47,6 +47,7 @@
 
 - Picking a radish is not an exact science - try to pick a hefty one for a juicier radish. If you can see a cross-section avoid any that have white opaque dots (those are stringy fibres)
 - Getting the flour paste to the right consistency is important - do not making it too runny otherwise it won't set correctly, but if it's too thick the texture will also be a bit stiff
+  - Approximately 1:1 flour to liquid
 - Do not be tempted to add too much filling
 
 ## Step by step with pictures / video

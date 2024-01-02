@@ -23,12 +23,12 @@
 
 ### Bechamel
 
-- 4 cups Milk
-- 56g Unsalted butter (48g Clarified butter)
-- 48g All purpose flour
+- 6 cups Milk
+- 84g Unsalted butter (72g Clarified butter)
+- 72g All purpose flour
 - 1/2 Onion
-- 1 Bay leaf
-- 4 Whole cloves
+- 2 Bay leaf
+- 6 Whole cloves
 - Seasoning
   - Salt
   - White pepper
@@ -36,7 +36,7 @@
 
 ### Assembly
 
-- Lasagne noodle sheets (~8-9 long pieces - oven-ready are less hassle)
+- Lasagne noodle sheets (~12-18 long pieces - oven-ready are less hassle)
 - Mozzarella cheese
 - Parmesan cheese
 
