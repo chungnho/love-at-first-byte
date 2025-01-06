@@ -16,6 +16,7 @@
 - ~2 Chinese sausage (steamed)
 - ~5 Dried shiitake mushrooms (soaked)
 - ~10 Dried shrimp (soaked)
+- 2 dried scallops (optional)
 
 ### Garnish
 
@@ -26,14 +27,16 @@
 
 1. Prep the filling
    1. Dice the chinese sausage, shiitake mushrooms and dried shrimp
-   2. Stir fry in a wok with a small amount of oil; then set aside
+   2. Stir fry chinese sausage, shiitake mushrooms and dried shrimp in a wok with a small amount of oil; then set aside
+   3. Steam dried scallops in a small amount of water for 30 min
+   4. Reserve scallop water; shred scallop and set aside
 2. Wash and peel chinese radish; then weigh
 3. Adjust rice flour according to the radish weight (~1/4 of the radish weight - round down)
 4. Grate radish (a variation of some more roughly chopped/grated radish adds texture)
 5. Cook radish with sugar and chicken bouillon powder in pan until soft (~15min)
 6. Drain radish juice from pan and let cool (keep radish warm)
 7. Combine rice flour with salt and white pepper
-8. Add cooled radish juice to flour mixture to form a paste (add additional water as needed)
+8. Add cooled radish juice (and reserved scallop water) to flour mixture to form a paste (add additional water as needed)
 9. Stir the flour paste into the warm/hot radish
 10. Add the filling and combine well
 11. Transfer into a greased pan
