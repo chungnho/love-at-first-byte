@@ -1,3 +1,9 @@
+---
+layout: page
+title: Lamb Rack
+parent: Recipes
+---
+
 # Lamb Rack
 
 ## Ingredients

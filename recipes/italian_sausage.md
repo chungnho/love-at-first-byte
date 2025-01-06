@@ -1,3 +1,9 @@
+---
+layout: page
+title: Italian Sausage
+parent: Recipes
+---
+
 # Italian Sausage
 
 ## Ingredients

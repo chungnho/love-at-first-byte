@@ -1,4 +1,10 @@
-Beef Malaysian Curry
+---
+layout: page
+title: Beef Malaysian Curry
+parent: Recipes
+---
+
+# Beef Malaysian Curry
 
 ## Ingredients
 
@@ -44,4 +50,4 @@ Beef Malaysian Curry
 
 ## Reference
 
-https://twosleevers.com/beef-rendang-instant-pot-recipe/
+[https://twosleevers.com/beef-rendang-instant-pot-recipe/](https://twosleevers.com/beef-rendang-instant-pot-recipe/)

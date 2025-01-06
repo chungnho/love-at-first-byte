@@ -1,3 +1,9 @@
+---
+layout: page
+title: Beef Marinade for Stir Fry
+parent: Chinese
+---
+
 # Beef Marinade for Stir Fry
 
 ## Ingredients

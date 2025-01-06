@@ -1,3 +1,9 @@
+---
+layout: page
+title: Lamb Chops
+parent: Recipes
+---
+
 # Lamb Chops
 
 ## Ingredients

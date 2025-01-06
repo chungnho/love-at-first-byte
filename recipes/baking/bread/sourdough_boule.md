@@ -1,4 +1,10 @@
-# Sourdough
+---
+layout: page
+title: Sourdough Boule
+parent: Bread
+---
+
+# Sourdough Boule
 
 ## Ingredients
 
@@ -36,9 +42,9 @@
 
 ## Reference
 
-- https://www.instagram.com/tv/B_o2hl6J4cz/
-- https://www.instagram.com/tv/B_o9y-XpZyt/
-- https://www.instagram.com/tv/B_rloVLJbUF/
+- [https://www.instagram.com/tv/B_o2hl6J4cz/](https://www.instagram.com/tv/B_o2hl6J4cz/)
+- [https://www.instagram.com/tv/B_o9y-XpZyt/](https://www.instagram.com/tv/B_o9y-XpZyt/)
+- [https://www.instagram.com/tv/B_rloVLJbUF/](https://www.instagram.com/tv/B_rloVLJbUF/)
 
 ## Notes
 

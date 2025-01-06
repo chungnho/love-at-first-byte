@@ -1,3 +1,9 @@
+---
+layout: page
+title: Stir Fried Rice Cakes
+parent: Chinese
+---
+
 # Stir Fried Rice Cakes
 
 ## Ingredients
@@ -39,4 +45,4 @@
 
 ## Reference
 
-- https://thewoksoflife.com/stir-fried-sticky-rice-cakes-nian-gao/
+- [https://thewoksoflife.com/stir-fried-sticky-rice-cakes-nian-gao/](https://thewoksoflife.com/stir-fried-sticky-rice-cakes-nian-gao/)

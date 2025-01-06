@@ -1,16 +1,22 @@
-# Maple Banana bread
+---
+layout: page
+title: Maple Banana Bread
+parent: Quick Bread
+---
+
+# Maple Banana Bread
 
 ## Ingredients
 
-1 1/2 cup self raising flour  
-1 teaspoon baking soda  
-1/2 teaspoon salt  
-1/2 teaspoon cinnamon  
-1/2 teaspoon vanilla  
-1/2 cup light brown sugar  
-1/2 cup dark brown sugar  
-2 eggs, lightly beaten  
-3 large, ripe bananas, mashed  
+1 1/2 cup self raising flour
+1 teaspoon baking soda
+1/2 teaspoon salt
+1/2 teaspoon cinnamon
+1/2 teaspoon vanilla
+1/2 cup light brown sugar
+1/2 cup dark brown sugar
+2 eggs, lightly beaten
+3 large, ripe bananas, mashed
 1/4 cup butter, melted
 
 ## Instructions

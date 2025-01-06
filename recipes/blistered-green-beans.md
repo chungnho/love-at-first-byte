@@ -1,3 +1,9 @@
+---
+layout: page
+title: Blistered Green Beans
+parent: Recipes
+---
+
 # Blistered Green Beans
 
 ## Ingredients

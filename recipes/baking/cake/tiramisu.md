@@ -1,3 +1,9 @@
+---
+layout: page
+title: Tiramisu
+parent: Cake
+---
+
 # Tiramisu
 
 ## Ingredients

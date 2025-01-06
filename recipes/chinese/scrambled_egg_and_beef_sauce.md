@@ -1,3 +1,9 @@
+---
+layout: page
+title: Scrambbled Egg and Beef Sauce
+parent: Chinese
+---
+
 # Scrambled Egg and Beef Sauce
 
 ## Ingredients
@@ -34,4 +40,4 @@ See [beef marinade](./beef_marinade.md)
 
 ## Reference
 
-- https://thewoksoflife.com/beef-egg-stir-fry-rice/
+- [https://thewoksoflife.com/beef-egg-stir-fry-rice/](https://thewoksoflife.com/beef-egg-stir-fry-rice/)

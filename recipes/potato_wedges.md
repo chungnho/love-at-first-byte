@@ -1,3 +1,9 @@
+---
+layout: page
+title: Potato Wedges
+parent: Recipes
+---
+
 # Potato Wedges
 
 ## Ingredients

@@ -1,4 +1,10 @@
-Lemongrass Pork Chops
+---
+layout: page
+title: Lemongrass Pork Chops
+parent: Recipes
+---
+
+#Lemongrass Pork Chops
 
 ## Ingredients
 

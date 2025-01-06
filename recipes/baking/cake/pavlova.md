@@ -1,3 +1,9 @@
+---
+layout: page
+title: Pavlova
+parent: Cake
+---
+
 # Pavlova
 
 ## Ingredients

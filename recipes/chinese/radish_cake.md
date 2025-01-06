@@ -1,3 +1,9 @@
+---
+layout: page
+title: Radish Cake
+parent: Chinese
+---
+
 # Radish Cake
 
 ## Ingredients
@@ -55,4 +61,4 @@
 
 ## Step by step with pictures / video
 
-https://www.instagram.com/stories/highlights/17861594689803140/
+[https://www.instagram.com/stories/highlights/17861594689803140/](https://www.instagram.com/stories/highlights/17861594689803140/)

@@ -1,3 +1,9 @@
+---
+layout: page
+title: The Last Word
+parent: Cocktails
+---
+
 # The Last Word
 
 ## Ingredients

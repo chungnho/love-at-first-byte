@@ -1,3 +1,9 @@
+---
+layout: page
+title: Chicken Risotto
+parent: Recipes
+---
+
 # Chicken Risotto
 
 ## Ingredients

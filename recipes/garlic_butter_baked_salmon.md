@@ -1,3 +1,9 @@
+---
+layout: page
+title: Garlic Butter Baked Salmon
+parent: Recipes
+---
+
 # Garlic Butter Baked Salmon
 
 ## Ingredients

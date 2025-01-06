@@ -1,3 +1,9 @@
+---
+layout: page
+title: Gin Gimlet
+parent: Cocktails
+---
+
 # Gin Gimlet
 
 ## Ingredients

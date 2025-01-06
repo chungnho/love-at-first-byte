@@ -1,0 +1,4 @@
+---
+title: Pastry
+parent: Baking
+---

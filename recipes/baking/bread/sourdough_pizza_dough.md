@@ -1,4 +1,10 @@
-# Pizza Dough
+---
+layout: page
+title: Sourdough Pizza Dough
+parent: Bread
+---
+
+# Sourdough Pizza Dough
 
 Makes 2 290g dough balls
 
@@ -30,7 +36,7 @@ Makes 2 290g dough balls
 
 ## Reference
 
-- https://www.theperfectloaf.com/sourdough-pizza-dough-and-recipes/
+- [https://www.theperfectloaf.com/sourdough-pizza-dough-and-recipes/](https://www.theperfectloaf.com/sourdough-pizza-dough-and-recipes/)
 
 ## Tips
 

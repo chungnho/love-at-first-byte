@@ -1,3 +1,9 @@
+---
+layout: page
+title: Baked Portuguese Pork Chop Rice
+parent: Chinese
+---
+
 # Baked Portuguese Pork Chop Rice
 
 ## Ingredients
@@ -67,6 +73,6 @@
 
 ## Reference
 
-- https://ladyandpups.com/2015/01/14/macaos-portugese-fried-rice-gratin/
-- http://the-cooking-of-joy.blogspot.com/2016/09/macau-style-portuguese-chicken-rice.html
-- https://en.christinesrecipes.com/2008/09/baked-pork-chops-with-rice-classic.html
+- [https://ladyandpups.com/2015/01/14/macaos-portugese-fried-rice-gratin/](https://ladyandpups.com/2015/01/14/macaos-portugese-fried-rice-gratin/)
+- [http://the-cooking-of-joy.blogspot.com/2016/09/macau-style-portuguese-chicken-rice.html](http://the-cooking-of-joy.blogspot.com/2016/09/macau-style-portuguese-chicken-rice.html)
+- [https://en.christinesrecipes.com/2008/09/baked-pork-chops-with-rice-classic.html](https://en.christinesrecipes.com/2008/09/baked-pork-chops-with-rice-classic.html)
