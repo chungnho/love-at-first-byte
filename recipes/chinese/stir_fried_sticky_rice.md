@@ -1,3 +1,9 @@
+---
+layout: page
+title: Stir Fried Sticky Rice
+parent: Chinese
+---
+
 # Stir Fried Sticky Rice
 
 ## Ingredients
@@ -89,6 +95,6 @@
 
 ## Reference
 
-- https://www.reddit.com/r/Cooking/comments/6l6g13/recipe_how_to_make_stirfried_sticky_rice_%E7%94%9F%E7%82%92%E7%B3%AF%E7%B1%B3%E9%A5%AD/
-- https://thewoksoflife.com/sticky-rice-with-chinese-sausage/
-- https://en.christinesrecipes.com/2010/07/stir-fried-glutinous-rice.html
+- [https://www.reddit.com/r/Cooking/comments/6l6g13/recipe*how_to_make_stirfried_sticky_rice*%E7%94%9F%E7%82%92%E7%B3%AF%E7%B1%B3%E9%A5%AD/](https://www.reddit.com/r/Cooking/comments/6l6g13/recipe_how_to_make_stirfried_sticky_rice_%E7%94%9F%E7%82%92%E7%B3%AF%E7%B1%B3%E9%A5%AD/)
+- [https://thewoksoflife.com/sticky-rice-with-chinese-sausage/](https://thewoksoflife.com/sticky-rice-with-chinese-sausage/)
+- [https://en.christinesrecipes.com/2010/07/stir-fried-glutinous-rice.html](https://en.christinesrecipes.com/2010/07/stir-fried-glutinous-rice.html)

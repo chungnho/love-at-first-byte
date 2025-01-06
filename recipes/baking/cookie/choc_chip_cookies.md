@@ -1,3 +1,9 @@
+---
+layout: page
+title: Choc Chip Cookies
+parent: Cookie
+---
+
 # Choc Chip Cookies
 
 ## Ingredients

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Butter Pie Crust
+parent: Pastry
+---
+
 # Butter Pie Crust
 
 ## Ingredients
@@ -21,4 +27,4 @@
 
 ## Reference
 
-- https://sallysbakingaddiction.com/all-butter-pie-crust/
+- [https://sallysbakingaddiction.com/all-butter-pie-crust/](https://sallysbakingaddiction.com/all-butter-pie-crust/)

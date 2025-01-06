@@ -1,4 +1,10 @@
-# Ube Maracrons
+---
+layout: page
+title: Macaron Shells
+parent: Cookie
+---
+
+# Maracron Shells
 
 ## Ingredients
 
@@ -10,7 +16,7 @@
 - 1/4 tsp Cream of tartar
 - 200 g Icing sugar
 - 120 g Almond flour
-- Flavouring / colouring of your choice*
+- Flavouring / colouring of your choice
 
 ## Instructions
 
@@ -27,7 +33,7 @@
 3. Add salt, cream of tartar and white sugar; beat until stiff peaks (8-10min)
 4. Add flavouring / colouring
 5. Sift almond flour and icing sugar twice
-6. Fold the sifted dry mixture into meringue mixture. 65-75 good strokes - do not overmix or undermix*
+6. Fold the sifted dry mixture into meringue mixture. 65-75 good strokes - do not overmix or undermix
 7. Preheat the oven to 150C (300F) fan forced - recommend using oven thermometer for accuracy
 8. Transfer mixture into piping bag
 9. Pipe into 1 inch disks on baking paper - do not overcrowd as they will spread
@@ -38,9 +44,9 @@
 
 ## Reference
 
-- https://entertainingwithbeth.com/foolproof-french-macaron-recipe/
-- https://entertainingwithbeth.com/troubleshooting-french-macarons/
-- https://www.indulgewithmimi.com/how-to-age-egg-whites-for-baking-macarons/
+- [https://entertainingwithbeth.com/foolproof-french-macaron-recipe/](https://entertainingwithbeth.com/foolproof-french-macaron-recipe/)
+- [https://entertainingwithbeth.com/troubleshooting-french-macarons/](https://entertainingwithbeth.com/troubleshooting-french-macarons/)
+- [https://www.indulgewithmimi.com/how-to-age-egg-whites-for-baking-macarons/](https://www.indulgewithmimi.com/how-to-age-egg-whites-for-baking-macarons/)
 
 ## Notes
 

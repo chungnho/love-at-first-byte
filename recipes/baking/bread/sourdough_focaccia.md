@@ -1,3 +1,9 @@
+---
+layout: page
+title: Sourdough Focaccia
+parent: Bread
+---
+
 # Sourdough Focaccia
 
 ## Ingredients
@@ -46,5 +52,5 @@
 
 ## Reference
 
-- https://www.theperfectloaf.com/a-simple-focaccia/
-- https://leitesculinaria.com/7202/recipes-potato-rosemary-focaccia.html
+- [https://www.theperfectloaf.com/a-simple-focaccia/](https://www.theperfectloaf.com/a-simple-focaccia/)
+- [https://leitesculinaria.com/7202/recipes-potato-rosemary-focaccia.html](https://leitesculinaria.com/7202/recipes-potato-rosemary-focaccia.html)

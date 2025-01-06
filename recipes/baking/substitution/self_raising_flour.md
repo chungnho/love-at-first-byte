@@ -1,3 +1,9 @@
+---
+layout: page
+title: Self-Raising Flour
+parent: Substitution
+---
+
 # Self-Raising Flour
 
 Makes 1 cup of self-raising flour:

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Caramelised Onions
+parent: Recipes
+---
+
 # Caramelised Onions
 
 ## Ingredients (Approx ratios for 1 onion)

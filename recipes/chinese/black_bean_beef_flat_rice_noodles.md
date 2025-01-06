@@ -1,4 +1,10 @@
-# Beef Flat Rice Noodles
+---
+layout: page
+title: Black Bean Beef Flat Rice Noodles
+parent: Chinese
+---
+
+# Black Bean Beef Flat Rice Noodles
 
 ## Ingredients
 
@@ -39,9 +45,9 @@ See [beef marinade](./beef_marinade.md)
 
 ## References
 
-- https://schoolofwok.co.uk/tips-and-recipes/black-bean-beef-hor-fun
-- https://thewoksoflife.com/chicken-black-beans/
-- https://shelives2eat.com/2016/03/29/recipe-stir-fry-beef-and-black-bean-ho-fun-flat-rice-noodles/
+- [https://schoolofwok.co.uk/tips-and-recipes/black-bean-beef-hor-fun](https://schoolofwok.co.uk/tips-and-recipes/black-bean-beef-hor-fun)
+- [https://thewoksoflife.com/chicken-black-beans/](https://thewoksoflife.com/chicken-black-beans/)
+- [https://shelives2eat.com/2016/03/29/recipe-stir-fry-beef-and-black-bean-ho-fun-flat-rice-noodles/](https://shelives2eat.com/2016/03/29/recipe-stir-fry-beef-and-black-bean-ho-fun-flat-rice-noodles/)
 
 ## Notes
 

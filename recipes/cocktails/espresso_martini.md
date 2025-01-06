@@ -1,4 +1,10 @@
-# Espresso martini
+---
+layout: page
+title: Espresso Martini
+parent: Cocktails
+---
+
+# Espresso Martini
 
 ## Ingredients
 

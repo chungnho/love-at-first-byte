@@ -1,3 +1,9 @@
+---
+layout: page
+title: Beef Flat Rice Noodles
+parent: Chinese
+---
+
 # Beef Flat Rice Noodles
 
 ## Ingredients
@@ -35,5 +41,5 @@ See [beef marinade](./beef_marinade.md)
 
 ## Reference
 
-- https://www.instagram.com/tv/B_cFd7EDakP/
-- https://thewoksoflife.com/beef-chow-fun-noodles/
+- [https://www.instagram.com/tv/B_cFd7EDakP/](https://www.instagram.com/tv/B_cFd7EDakP/)
+- [https://thewoksoflife.com/beef-chow-fun-noodles/](https://thewoksoflife.com/beef-chow-fun-noodles/)

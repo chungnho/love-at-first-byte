@@ -1,3 +1,9 @@
+---
+layout: page
+title: Hasselback Potatoes
+parent: Recipes
+---
+
 # Hasselback Potatoes
 
 ## Ingredients

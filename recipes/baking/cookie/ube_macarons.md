@@ -1,3 +1,9 @@
+---
+layout: page
+title: Ube Macarons
+parent: Cookie
+---
+
 # Ube Maracrons
 
 ## Ingredients
@@ -17,6 +23,7 @@
 ## Instructions
 
 ### Age Egg Whites and Shells
+
 - See [macaron shells](./macaron_shells.md) for instructions to age egg whites and make shells
 
 ### Buttercream filling
@@ -34,5 +41,4 @@
 
 ## Reference
 
-- https://entertainingwithbeth.com/foolproof-french-macaron-recipe/
-
+- [https://entertainingwithbeth.com/foolproof-french-macaron-recipe/](https://entertainingwithbeth.com/foolproof-french-macaron-recipe/)

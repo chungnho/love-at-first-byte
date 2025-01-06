@@ -1,4 +1,10 @@
-# Banana bread
+---
+layout: page
+title: Banana Bread
+parent: Quick Bread
+---
+
+# Banana Bread
 
 ## Ingredients
 

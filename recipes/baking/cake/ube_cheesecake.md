@@ -1,3 +1,9 @@
+---
+layout: page
+title: Ube Cheesecake
+parent: Cake
+---
+
 # Ube Cheesecake
 
 ## Ingredients
@@ -35,7 +41,7 @@
 
 ## Reference
 
-- https://www.biggerbolderbaking.com/ube-cheesecake-no-bake/
+- [https://www.biggerbolderbaking.com/ube-cheesecake-no-bake/](https://www.biggerbolderbaking.com/ube-cheesecake-no-bake/)
 
 ## Notes
 

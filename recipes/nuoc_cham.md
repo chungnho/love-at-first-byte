@@ -1,4 +1,10 @@
-Nuoc Cham
+---
+layout: page
+title: Nuoc Cham
+parent: Recipes
+---
+
+# Nuoc Cham
 
 ## Ingredients
 

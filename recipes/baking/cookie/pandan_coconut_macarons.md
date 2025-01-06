@@ -1,3 +1,9 @@
+---
+layout: page
+title: Pandan Coconut Macarons
+parent: Cookie
+---
+
 # Pandan Coconut Maracrons
 
 ## Ingredients
@@ -17,6 +23,7 @@
 ## Instructions
 
 ### Age Egg Whites and Shells
+
 - See [macaron shells](./macaron_shells.md) for instructions to age egg whites and make shells
 
 ### Buttercream filling
@@ -34,5 +41,4 @@
 
 ## Reference
 
-- https://www.bakedbyanintrovert.com/coconut-buttercream-frosting/
-
+- [https://www.bakedbyanintrovert.com/coconut-buttercream-frosting/](https://www.bakedbyanintrovert.com/coconut-buttercream-frosting/)

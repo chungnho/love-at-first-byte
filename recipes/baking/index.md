@@ -1,0 +1,4 @@
+---
+title: Baking
+parent: Recipes
+---

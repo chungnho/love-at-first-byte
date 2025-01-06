@@ -1,3 +1,9 @@
+---
+layout: page
+title: Tom Collins
+parent: Cocktails
+---
+
 # Tom Collins
 
 ## Ingredients

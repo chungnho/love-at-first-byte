@@ -1,3 +1,9 @@
+---
+layout: page
+title: Lasagne
+parent: Recipes
+---
+
 # Lasagne
 
 ## Ingredients

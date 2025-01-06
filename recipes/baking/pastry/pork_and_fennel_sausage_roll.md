@@ -1,10 +1,10 @@
 ---
-title: Pork and Fennel Sausage Rolls
-parent: Baking
-nav_order: 2
+layout: page
+title: Pork and Fennel Sausage Roll
+parent: Pastry
 ---
 
-# Pork and Fennel Sausage Rolls
+# Pork and Fennel Sausage Roll
 
 ## Ingredients
 

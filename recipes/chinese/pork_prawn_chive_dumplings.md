@@ -1,3 +1,9 @@
+---
+layout: page
+title: Pork Prawn and Chive Dumplings
+parent: Chinese
+---
+
 # Pork Prawn and Chive Dumplings
 
 ## Ingredients
