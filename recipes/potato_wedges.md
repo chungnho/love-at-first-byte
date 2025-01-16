@@ -30,10 +30,10 @@ parent: Recipes
 6. Lay potatoes on one cut side in large pan lined with baking paper
 7. Bake for 30 min, flip and bake for another 25-30 min
 
-# Reference
+## References
 
 - [https://cookieandkate.com/crispy-baked-potato-wedges-recipe/](https://cookieandkate.com/crispy-baked-potato-wedges-recipe/)
 
-# Notes
+## Notes
 
 - Not sure if the baking soda is necessary but it might help make them crispier

@@ -47,10 +47,10 @@ parent: Pastry
 ### Bake
 
 1. Preheat oven to 180 C (350 F)
-2. Brush with egg (optional) and place on baking tray lined with baking paper (or spreayed with oil)
+2. Brush with egg (optional) and place on baking tray lined with baking paper (or sprayed with oil)
 3. Bake for 30 - 35 minutes in total, swapping tray shelves at 20 minutes, or until the pastry is deep golden brown. (Note: The filling will still look pink because of the bacon, but it's easy to tell from texture that it's cooked)
 4. Cool slightly on trays. Serve hot or warm
 
-## Reference
+## References
 
 - [https://www.recipetineats.com/special-pork-fennel-sausage-rolls/](https://www.recipetineats.com/special-pork-fennel-sausage-rolls/)

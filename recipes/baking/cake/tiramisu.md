@@ -60,8 +60,8 @@ Makes: 1 8 inch in tiramisu
 1. Dissolve the gelatine in the water
 2. Beat the fresh cream until whipped; set aside
 3. Beat the egg whites until they form stiff peaks; set aside
-4. Beat the marscapone and sugar until smooth and creamy
-5. Beat the gelatine and milk into the marscapone mixture
+4. Beat the mascarpone and sugar until smooth and creamy
+5. Beat the gelatine and milk into the mascarpone mixture
 6. Fold in the cream; fold in the whipped egg whites
 
 ### Assembly
@@ -79,7 +79,7 @@ Makes: 1 8 inch in tiramisu
 ## Notes
 
 - Gelatine doesn’t dissolve in cold water. It forms lumps if stirred directly into hot water. The best way is to stir gelatine into the required amount of cold water in a mug, then place the mug in a pan of hot water. Stir until you get a clear mixture.
-- Marscapone does not like sudden temperature changes, ensure that it is at room temperature before using
-- If the marscapone forms lumps, stir over a hot water bath until it smoothens
-- Marscapone is sweeter than cream cheese, can reduce the sugar in the filling if desired
+- Mascarpone does not like sudden temperature changes, ensure that it is at room temperature before using
+- If the mascarpone forms lumps, stir over a hot water bath until it smoothens
+- Mascarpone is sweeter than cream cheese, can reduce the sugar in the filling if desired
 - Ladyfingers can be used instead of baking the sponges

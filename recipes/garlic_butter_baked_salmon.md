@@ -38,7 +38,7 @@ parent: Recipes
    - Internal temperature should reach 58-60 C (137-140 F)
 6. Garnish with parsley and broil for 1-2 min
 
-## Reference
+## References
 
 - [https://damndelicious.net/2016/05/23/garlic-butter-salmon-foil/](https://damndelicious.net/2016/05/23/garlic-butter-salmon-foil/)
 - [https://cafedelites.com/sheet-pan-garlic-butter-baked-salmon/](https://cafedelites.com/sheet-pan-garlic-butter-baked-salmon/)

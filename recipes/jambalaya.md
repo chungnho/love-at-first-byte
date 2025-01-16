@@ -40,7 +40,7 @@ Serves: 6-8
 
 1. Brown diced chicken in pan (not through), set aside
 2. Brown andouille sausage, set aside
-3. Add 2 tbsp butter and 2 tbsp flour to pan, stire well and deglaze
+3. Add 2 tbsp butter and 2 tbsp flour to pan, stir well and deglaze
 4. Add onion, celery, capsicum and saute for 3 min
 5. Add crushed tomato, seasoning (1.5 tbsp cajun, 1 tsp basil, 1/2 tsp thyme, 1/4 tsp cayenne, 1 bay leaf), 3 cup chicken stock, rice
 6. Bring to soft boil, mix in chicken and andouille, reduce heat and cover
@@ -48,7 +48,7 @@ Serves: 6-8
 8. When rice is close to done, add prawns and cover for another 5-10 min (until prawns are cooked through)
 9. Adjust seasoning as needed
 
-## Reference
+## References
 
 - [https://www.gimmesomeoven.com/jambalaya-recipe/](https://www.gimmesomeoven.com/jambalaya-recipe/)
 - [https://tastesbetterfromscratch.com/one-pan-jambalaya/](https://tastesbetterfromscratch.com/one-pan-jambalaya/)

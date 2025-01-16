@@ -4,7 +4,7 @@ title: Macaron Shells
 parent: Cookie
 ---
 
-# Maracron Shells
+# Macaron Shells
 
 - Prep time: 2 h
 
@@ -44,7 +44,7 @@ parent: Cookie
 12. Bake for 20min - do not underbake! They should lift off the baking paper easily
 13. Transfer baked shells onto cooling rack and rest until completely cooled
 
-## Reference
+## References
 
 - [https://entertainingwithbeth.com/foolproof-french-macaron-recipe/](https://entertainingwithbeth.com/foolproof-french-macaron-recipe/)
 - [https://entertainingwithbeth.com/troubleshooting-french-macarons/](https://entertainingwithbeth.com/troubleshooting-french-macarons/)

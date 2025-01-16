@@ -47,7 +47,7 @@ parent: Recipes
 2. Bake pork chops on griddle 4-5 min on each side
 3. Broil for 2 min to finish
 
-## Reference
+## References
 
 - [https://www.seriouseats.com/recipes/2016/08/vietnamese-grilled-pork-chop-thit-heo-nuong-xa-recipe.html](https://www.seriouseats.com/recipes/2016/08/vietnamese-grilled-pork-chop-thit-heo-nuong-xa-recipe.html)
 

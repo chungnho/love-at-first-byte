@@ -20,9 +20,9 @@ parent: Recipes
 1. Whisk sugar in hot water until dissolved
 2. Stir in lime juice, fish sauce, garlic and chilli to combine
 
-## Reference
+## References
 
-[https://www.seriouseats.com/recipes/2011/09/sauced-nuoc-cham-recipe.html](https://www.seriouseats.com/recipes/2011/09/sauced-nuoc-cham-recipe.html)
+- [https://www.seriouseats.com/recipes/2011/09/sauced-nuoc-cham-recipe.html](https://www.seriouseats.com/recipes/2011/09/sauced-nuoc-cham-recipe.html)
 
 ## Notes
 

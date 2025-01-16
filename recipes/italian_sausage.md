@@ -31,6 +31,6 @@ parent: Recipes
 
 1. Combine all in a mixing bowl
 
-## Reference
+## References
 
 - [https://www.allrecipes.com/recipe/216319/homemade-sweet-italian-sausage-mild-or-hot/](https://www.allrecipes.com/recipe/216319/homemade-sweet-italian-sausage-mild-or-hot/)

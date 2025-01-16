@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scrambbled Egg and Beef Sauce
+title: Scrambled Egg and Beef Sauce
 parent: Chinese
 ---
 
@@ -30,7 +30,7 @@ See [beef marinade](./beef_marinade.md)
   - 1/4 tsp Salt
   - 1/4 tsp Sugar
   - White pepper
-- Cornstach slurry (2 tbsp cornstarch with 2 tbsp cold water)
+- Cornstarch slurry (2 tbsp cornstarch with 2 tbsp cold water)
 - 2 Eggs (beaten)
 
 ## Instructions
@@ -43,6 +43,6 @@ See [beef marinade](./beef_marinade.md)
 6. Pour the beaten egg into the sauce and gently fold so that it forms ribbons; Add rest of spring onions after 10 seconds and continue folding for another 5 seconds
 7. Serve over rice or flat rice noodles
 
-## Reference
+## References
 
 - [https://thewoksoflife.com/beef-egg-stir-fry-rice/](https://thewoksoflife.com/beef-egg-stir-fry-rice/)

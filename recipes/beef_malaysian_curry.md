@@ -14,7 +14,7 @@ parent: Recipes
 - 1 Onion (finely chopped)
 - 1 tbsp Ginger (minced)
 - 1 tbsp Garlic (minced)
-- 2 Chillis (finely chopped)
+- 2 Chillies (finely chopped)
 - 1 Shallot (finely chopped - optional)
 - 1/2 jar Malaysian curry paste
 - 1 lb Beef (2 in cubes) - skirt steak / short rib / brisket
@@ -37,7 +37,7 @@ parent: Recipes
 ## Instructions
 
 1. Set instant pot to saute and add oil
-2. Add minced onion, garlic and ginger, chillis, shallot and stir to coat in oil
+2. Add minced onion, garlic and ginger, chillies, shallot and stir to coat in oil
 3. Add curry paste and stir - allow to roast for 3-4 min
 4. Add beef and stir to coat - ~2 min
 5. Add 1/4 cup water to deglaze the pot
@@ -51,6 +51,6 @@ parent: Recipes
 10. Adjust seasoning to taste
 11. Stir in remaining 1/2 cup coconut milk and serve
 
-## Reference
+## References
 
 [https://twosleevers.com/beef-rendang-instant-pot-recipe/](https://twosleevers.com/beef-rendang-instant-pot-recipe/)

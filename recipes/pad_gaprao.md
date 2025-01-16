@@ -14,7 +14,7 @@ parent: Recipes
 Serves: 4
 
 - 1 lb Pork mince
-- 1 lb Green beans (trimmed, cut to 1 cm segmennts)
+- 1 lb Green beans (trimmed, cut to 1 cm segments)
 - 3-4 Red chillies (deseeded, minced)
 - 1/2 head Garlic (minced)
 - 1 bunch Basil (holy basil / thai basil, washed and leaves picked)
@@ -28,7 +28,7 @@ Serves: 4
 ## Instructions
 
 1. Stir fry green beans until they begin to soften, set aside
-   1. Cover and steam as needed
+   - Cover and steam as needed
 2. Add pork mince to searing wok and stir fry til browned
 3. Remove any excess liquid
 4. Make space in centre of wok and add garlic and chillies
@@ -38,6 +38,6 @@ Serves: 4
 8. Dress with sesame oil
 9. Serve with white rice and fried egg
 
-# Reference
+## References
 
 - [https://www.marionskitchen.com/thai-pork-basil-stir-fry-pad-gaprow/](https://www.marionskitchen.com/thai-pork-basil-stir-fry-pad-gaprow/)

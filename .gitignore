@@ -1,6 +1,6 @@
 _site
-_site2
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+settings.json
 vendor

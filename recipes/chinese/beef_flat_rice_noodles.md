@@ -44,7 +44,7 @@ See [beef marinade](./beef_marinade.md)
 6. Add seasoning
 7. In the last 30s add the bean sprouts, shallots and garlic chives
 
-## Reference
+## References
 
 - [https://www.instagram.com/tv/B_cFd7EDakP/](https://www.instagram.com/tv/B_cFd7EDakP/)
 - [https://thewoksoflife.com/beef-chow-fun-noodles/](https://thewoksoflife.com/beef-chow-fun-noodles/)

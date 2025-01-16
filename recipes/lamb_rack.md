@@ -41,7 +41,7 @@ parent: Recipes
    - 66-74 C (150-165 F) for well done
 5. Rest for 15 min covered with foil before serving
 
-## Reference
+## References
 
-- https://www.simplyrecipes.com/recipes/classic_rack_of_lamb/
-- http://greatgrub.com/reference/cooking_temperatures_for_lamb
+- [https://www.simplyrecipes.com/recipes/classic_rack_of_lamb/](https://www.simplyrecipes.com/recipes/classic_rack_of_lamb/)
+- [http://greatgrub.com/reference/cooking_temperatures_for_lamb](http://greatgrub.com/reference/cooking_temperatures_for_lamb)

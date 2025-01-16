@@ -40,10 +40,10 @@ Makes: ~8
 
 ### Rest of dish
 
-6. Optional - Caramelise the onions and then cool in fridge
-7. Break up patty in bowl; then add onions, pickles cheese, mustard and ketchup (1 part mustard to 2 parts ketchup). Adjust to taste (and add salt if needed)
-8. Deep fry fresh (don't overcrowd the pot and make sure the pot is adequately hot) - ~2 min for each batch
+1. Optional - Caramelise the onions and then cool in fridge
+2. Break up patty in bowl; then add onions, pickles cheese, mustard and ketchup (1 part mustard to 2 parts ketchup). Adjust to taste (and add salt if needed)
+3. Deep fry fresh (don't overcrowd the pot and make sure the pot is adequately hot) - ~2 min for each batch
 
-## Reference
+## References
 
 - [https://www.instagram.com/tv/B_jGaZrDmfH/?hl=en](https://www.instagram.com/tv/B_jGaZrDmfH/?hl=en)

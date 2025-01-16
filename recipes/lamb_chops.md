@@ -39,12 +39,12 @@ parent: Recipes
 
 ### Cook
 
-4. Bring lamb chops to room temperature 2h before cooking
-5. Pan fry in skillet (3-4 min on each side)
+1. Bring lamb chops to room temperature 2h before cooking
+2. Pan fry in skillet (3-4 min on each side)
    - Can also grill/broil, or bbq
-6. Rest before serving
+3. Rest before serving
 
-## Reference
+## References
 
 - [https://www.agfg.com.au/recipe/angie-hongs-grilled-marinated-lamb-chops](https://www.agfg.com.au/recipe/angie-hongs-grilled-marinated-lamb-chops)
 - [https://www.spiceography.com/lemongrass-substitute/](https://www.spiceography.com/lemongrass-substitute/)

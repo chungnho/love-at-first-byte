@@ -22,7 +22,7 @@ Makes: 1 760g boule
 
 ### Prep
 
-0. The day prior to baking, feed 3 times every 6 hours
+1. The day prior to baking, feed 3 times every 6 hours
 
 ### Dough
 
@@ -38,14 +38,14 @@ Makes: 1 760g boule
 
 ### Bake
 
-7. Preheat oven with dutch oven at "full blast" (~500 F)
-8. Transfer dough onto baking paper; Score
-9. Place dough (and baking paper) into dutch oven. Add a bit of water under the paper. Cover dutch oven and bake at "full blast" for 20min
-10. Lower temperature to 200-220 C (425 F) and bake for another 10 min
-11. Uncover dutch oven and bake for another 15 min
-12. Remove from oven and check it is ready by listening for a hollow sound. Transfer to cooling rack and rest for at least 30 min
+1. Preheat oven with dutch oven at "full blast" (~500 F)
+2. Transfer dough onto baking paper; Score
+3. Place dough (and baking paper) into dutch oven. Add a bit of water under the paper. Cover dutch oven and bake at "full blast" for 20min
+4. Lower temperature to 200-220 C (425 F) and bake for another 10 min
+5. Uncover dutch oven and bake for another 15 min
+6. Remove from oven and check it is ready by listening for a hollow sound. Transfer to cooling rack and rest for at least 30 min
 
-## Reference
+## References
 
 - [https://www.instagram.com/tv/B_o2hl6J4cz/](https://www.instagram.com/tv/B_o2hl6J4cz/)
 - [https://www.instagram.com/tv/B_o9y-XpZyt/](https://www.instagram.com/tv/B_o9y-XpZyt/)

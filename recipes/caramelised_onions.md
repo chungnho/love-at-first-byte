@@ -30,6 +30,6 @@ parent: Recipes
    4. Lower temperature after 20-30 min
 5. Add some balsamic vinegar to deglaze pan and add more flavour
 
-## Reference
+## References
 
 - [https://www.simplyrecipes.com/recipes/how_to_caramelize_onions/](https://www.simplyrecipes.com/recipes/how_to_caramelize_onions/)

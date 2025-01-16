@@ -4,7 +4,7 @@ title: Pandan Coconut Macarons
 parent: Cookie
 ---
 
-# Pandan Coconut Maracrons
+# Pandan Coconut Macarons
 
 - Prep time: 1 h
 
@@ -41,6 +41,6 @@ parent: Cookie
 2. Pipe buttercream onto one shell and pressing other shell to create sandwich
 3. Serve fresh
 
-## Reference
+## References
 
 - [https://www.bakedbyanintrovert.com/coconut-buttercream-frosting/](https://www.bakedbyanintrovert.com/coconut-buttercream-frosting/)

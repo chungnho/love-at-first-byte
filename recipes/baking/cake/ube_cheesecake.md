@@ -40,10 +40,10 @@ Makes: 1 8 inch cheesecake
 2. Mix in the ube jam, ube flavouring, and vanilla extract
 3. Separately whip the cream until stiff peaks
 4. Fold whipped cream into cream cheese mixture
-5. Fill the biscuit sheel (in the cake tin) with the mixture and smooth out the top
+5. Fill the biscuit shell (in the cake tin) with the mixture and smooth out the top
 6. Cover and let it set in the fridge for 6 h
 
-## Reference
+## References
 
 - [https://www.biggerbolderbaking.com/ube-cheesecake-no-bake/](https://www.biggerbolderbaking.com/ube-cheesecake-no-bake/)
 

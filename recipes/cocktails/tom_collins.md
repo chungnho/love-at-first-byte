@@ -26,6 +26,6 @@ parent: Cocktails
 
 - Earl Grey Collins - Use Earl Grey infused gin (soak an earl grey tea bag in up to 500 mL of gin for ~8 h)
 
-## Reference
+## References
 
-- https://www.liquor.com/recipes/tom-collins-2/
+- [https://www.liquor.com/recipes/tom-collins-2/](https://www.liquor.com/recipes/tom-collins-2/)

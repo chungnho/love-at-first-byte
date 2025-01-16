@@ -25,7 +25,7 @@ parent: Recipes
 3. Brush butter mixture over potatoes (including in between the slices)
 4. Bake on greased foil-lined pan for 50-60 min (rotate pan after 30 min)
 
-## Reference
+## References
 
 - [https://www.foodnetwork.com/recipes/ree-drummond/hasselback-potatoes-3190731](https://www.foodnetwork.com/recipes/ree-drummond/hasselback-potatoes-3190731)
 - [https://www.dinneratthezoo.com/hasselback-potatoes-recipe/](https://www.dinneratthezoo.com/hasselback-potatoes-recipe/)

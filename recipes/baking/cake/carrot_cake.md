@@ -18,7 +18,7 @@ parent: Cake
 1 cup light brown sugar
 3 cups grated carrot
 1 cup chopped walnuts or pecans
-1/3 cup dessicated coconut (optional)
+1/3 cup desiccated coconut (optional)
 3/4 cup vegetable oil
 3 eggs, lightly beaten
 
@@ -36,7 +36,7 @@ parent: Cake
 1. Preheat oven to 350°F. Line the bottom of your pan with parchment paper (for ideally 2 small cake pans).
 2. In a large mixing bowl, whisk together the flour, cinnamon, ginger, nutmeg, mixed spice and salt until well combined.
 3. In a separate large mixing bowl, whisk together the vegetable oil, eggs, brown sugar, granulated sugar, and vanilla extract until fully combined.
-4. Add the grated carrots, dessicated coconut and pecans or walnuts into the wet ingredients and mix until well combined.
+4. Add the grated carrots, desiccated coconut and pecans or walnuts into the wet ingredients and mix until well combined.
 5. Pour the wet ingredients into the dry ingredients and mix with a rubber spatula until just combined, making sure not to over mix the batter.
 6. Pour the cake batter evenly between both prepared cake pans.
 7. Bake at 350°F for 30-35 minutes or until the tops of the cakes are set and a toothpick inserted into the center of each one comes out clean.
@@ -47,7 +47,7 @@ parent: Cake
 
 1. Zest the orange skin and set aside.
 2. Cut open the orange and hand squeeze it for some orange juice.
-3. In a large mixing bowl using a hand-held mixer, combine the cream cheese and roughly 2 tabelspoons of the orange juice.
+3. In a large mixing bowl using a hand-held mixer, combine the cream cheese and roughly 2 tablespoons of the orange juice.
 4. Beat the mixture until smooth.
 5. Add the butter and mix for about 30 seconds to 1 minute until well combined and smooth.
 6. Add in the powdered sugar and vanilla extract and continue mixing until fully combined.

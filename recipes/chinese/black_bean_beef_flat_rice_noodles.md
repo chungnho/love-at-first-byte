@@ -30,7 +30,7 @@ See [beef marinade](./beef_marinade.md)
 - 2 Capsicums (1 red and 1 green chopped)
 - 1.5 tbsp Black bean and garlic sauce
 - 2 cloves Garlic (minced)
-- 1 Chili (deseeded and finely chopped)
+- 1 Chilli (deseeded and finely chopped)
 
 ## Instructions
 
@@ -56,7 +56,7 @@ See [beef marinade](./beef_marinade.md)
 
 - Check salt level (it was a tad salty last time so this has the sauce halved)
 - Add sugar gradually
-- Maybe use some chicken bouillion / stock instead of just water at step 8.
+- Maybe use some chicken bouillon / stock instead of just water at step 8.
 - Consider adding pepper to beef marinade
 - Use small capsicums
 - Consider adding a bit of ginger

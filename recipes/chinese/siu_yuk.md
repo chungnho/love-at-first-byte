@@ -43,7 +43,7 @@ Serves: 4
    2. Sprinkle and rub the dry seasoning (1/2 tsp five spice, 1/3 tsp black pepper, 1/4 white pepper, 1 tsp garlic salt, 1/2 tsp salt) into the meat side
    3. Add ground beans sauce and sugar to the remaining dry seasoning, and rub into the meat side
 4. Place pork belly meat side down on a large piece of aluminium foil, and fold up the sides to form walls around the pork belly
-   1. Double layer for added integrity
+   - Double layer for added integrity
 5. Additional skin prep
    1. Sprinkle salt (~1 tbsp) on top of skin, let sit for 30 min
    2. Wipe off along with the moisture released
@@ -59,6 +59,6 @@ Serves: 4
    7. If skin is not crispy enough, switch to a low broil
 8. Rest for at least 30 min prior to cutting and serving
 
-## Reference
+## References
 
 - [https://www.madewithlau.com/recipes/siu-yuk-crispy-pork-belly](https://www.madewithlau.com/recipes/siu-yuk-crispy-pork-belly)

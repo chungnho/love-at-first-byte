@@ -91,11 +91,11 @@ Serves: 8
 3. Bake for 25 min with foil covering, then an additional 25 min uncovered
 4. Rest for 15 min before serving
 
-# Reference
+## References
 
 - [https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/](https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/)
 - [https://www.thespruceeats.com/bechamel-sauce-recipe-996082](https://www.thespruceeats.com/bechamel-sauce-recipe-996082)
 
-# Notes
+## Notes
 
 - Meat sauce seasoning - added extra 1 tbsp sugar + more salt and dash of liquid seasoning

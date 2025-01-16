@@ -45,7 +45,7 @@ Makes: 1 8 inch pavlova
 2. Spread whipped cream atop the meringue base
 3. Arrange sliced fruit on top
 
-## Reference
+## References
 
 ## Notes
 

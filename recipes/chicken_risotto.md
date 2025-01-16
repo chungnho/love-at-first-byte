@@ -33,4 +33,4 @@ parent: Recipes
 
 ## Reference
 
-- https://sweetcsdesigns.com/one-pot-chicken-risotto/
+- [https://sweetcsdesigns.com/one-pot-chicken-risotto/](https://sweetcsdesigns.com/one-pot-chicken-risotto/)

@@ -48,6 +48,6 @@ Serves: 4
 6. Add 1/2 - 3/4 cup of water (depending on how hot the wok gets), cover and steam for 2 min
 7. Add seasoning and stir fry over medium heat for a few more minutes
 
-## Reference
+## References
 
 - [https://thewoksoflife.com/stir-fried-sticky-rice-cakes-nian-gao/](https://thewoksoflife.com/stir-fried-sticky-rice-cakes-nian-gao/)

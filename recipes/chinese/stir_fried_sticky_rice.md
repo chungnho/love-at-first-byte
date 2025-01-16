@@ -82,7 +82,7 @@ Serves: 4
    1. Heat wok to medium-low - medium heat
    2. Add rice to lightly oiled wok
    3. Gradually mushroom/shrimp water - 2 tbsp at a time (like cooking risotto)
-      - Make sure the iquid is absorbed before adding more
+      - Make sure the liquid is absorbed before adding more
    4. Adding the rest of the water
       1. Add ~1/6 cup around the edge of the wok
       2. Cover for ~30 s
@@ -98,7 +98,7 @@ Serves: 4
    7. In the last 30-60 s, toss in spring onions and egg
 5. Sprinkle with sesame seeds and serve
 
-## Reference
+## References
 
 - [https://www.reddit.com/r/Cooking/comments/6l6g13/recipe*how_to_make_stirfried_sticky_rice*%E7%94%9F%E7%82%92%E7%B3%AF%E7%B1%B3%E9%A5%AD/](https://www.reddit.com/r/Cooking/comments/6l6g13/recipe_how_to_make_stirfried_sticky_rice_%E7%94%9F%E7%82%92%E7%B3%AF%E7%B1%B3%E9%A5%AD/)
 - [https://thewoksoflife.com/sticky-rice-with-chinese-sausage/](https://thewoksoflife.com/sticky-rice-with-chinese-sausage/)

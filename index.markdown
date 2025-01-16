@@ -1,6 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Welcome
+nav_exclude: true
 ---
+
+# Welcome
+
+Welcome to my personal diary of recipes as I continue my journey as an amateur cook.
+
+Get started [here](./recipes/).
+
+Follow me on Instagram [@chungnho](https://www.instagram.com/chungnho)

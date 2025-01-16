@@ -23,7 +23,7 @@ Makes: 2 medium sized focaccia
 
 ## Instructions
 
-1. Mix - should form a cohesive mass that is still a bbit wet and chunky (30 min)
+1. Mix - should form a cohesive mass that is still a bit wet and chunky (30 min)
    1. Add starter, flour, salt, water (minus 50 g) to bowl
    2. Mix by hand or mixer until smooth and elastic (~5min)
    3. Slowly add remaining 50 g of water - omit remaining water if the dough starts to fall apart (and becomes soupy)
@@ -56,7 +56,7 @@ Makes: 2 medium sized focaccia
     - 1/4 tsp Oregano, Thyme, Garlic Powder, Salt
     - 1/8 tsp Chili flakes, Paprika
 
-## Reference
+## References
 
 - [https://www.theperfectloaf.com/a-simple-focaccia/](https://www.theperfectloaf.com/a-simple-focaccia/)
 - [https://leitesculinaria.com/7202/recipes-potato-rosemary-focaccia.html](https://leitesculinaria.com/7202/recipes-potato-rosemary-focaccia.html)

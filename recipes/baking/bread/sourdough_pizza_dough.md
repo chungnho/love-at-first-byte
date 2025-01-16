@@ -33,11 +33,11 @@ Makes: 2 290 g dough balls
 3. Divide and ball:
    1. Dump dought onto unfloured bench and divide into 2 balls
    2. Shape into 2 tight balls with as little flour as possible. Ensure it is fully sealed on the bottom
-   3. Transfered to lightly oiled baking tray for proofing
+   3. Transferred to lightly oiled baking tray for proofing
 4. Proofing - they should flatten out from the tight balls
    1. Cover with plastic wrap and proof for 6 h at room temperature
 
-## Reference
+## References
 
 - [https://www.theperfectloaf.com/sourdough-pizza-dough-and-recipes/](https://www.theperfectloaf.com/sourdough-pizza-dough-and-recipes/)
 

@@ -12,7 +12,7 @@ parent: Cocktails
 - 1 oz Espresso
 - 1 oz Coffee liqueur (eg Kahlua)
 
-#### Garnishes (optional)
+### Garnishes (optional)
 
 - Coffee beans
 

@@ -38,7 +38,7 @@ Serves: 4
    2. Dry fish fillets and ensure they are at room temperature
 2. Prep sauce
    1. Combine creamed corn and 1 cup chicken broth, bring to boil, then set aside
-      1. Season with salt to taste
+      - Season with salt to taste
    2. Beat 1 egg and combine with 2 tsp cornstarch and 1 tbsp water
 3. Batter fish
    1. Beat 1 egg and mix with fish fillets
