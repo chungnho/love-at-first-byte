@@ -6,6 +6,9 @@ parent: Recipes
 
 # Lamb Chops
 
+- Prep time: 20 min
+- Cook time: 20 min
+
 ## Ingredients
 
 - 8-12 Lamb chops
@@ -32,16 +35,16 @@ parent: Recipes
 
 1. Combine marinade ingredients in bowl and whisk together
 2. Massage marinade into lamb chops in a bowl
-3. Marinate in the fridge for 2-4h (or overnight)
+3. Marinate in the fridge for 2-4 h (or overnight)
 
 ### Cook
 
 4. Bring lamb chops to room temperature 2h before cooking
-5. Pan fry in skillet (3-4min on each side)
+5. Pan fry in skillet (3-4 min on each side)
    - Can also grill/broil, or bbq
 6. Rest before serving
 
 ## Reference
 
-- https://www.agfg.com.au/recipe/angie-hongs-grilled-marinated-lamb-chops
-- https://www.spiceography.com/lemongrass-substitute/
+- [https://www.agfg.com.au/recipe/angie-hongs-grilled-marinated-lamb-chops](https://www.agfg.com.au/recipe/angie-hongs-grilled-marinated-lamb-chops)
+- [https://www.spiceography.com/lemongrass-substitute/](https://www.spiceography.com/lemongrass-substitute/)

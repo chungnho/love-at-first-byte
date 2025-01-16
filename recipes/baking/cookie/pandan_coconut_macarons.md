@@ -6,6 +6,8 @@ parent: Cookie
 
 # Pandan Coconut Maracrons
 
+- Prep time: 1 h
+
 ## Ingredients
 
 ### Shells

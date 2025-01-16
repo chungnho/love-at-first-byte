@@ -6,7 +6,11 @@ parent: Cake
 
 # Ube Cheesecake
 
+- Prep time: 1.5 h
+
 ## Ingredients
+
+Makes: 1 8 inch cheesecake
 
 ### Biscuit base
 
@@ -28,7 +32,7 @@ parent: Cake
 
 1. Stir melted butter into crushed biscuits
 2. Press the biscuit/butter mixture into a greased cake tin to form a shell
-3. Chill in fridge for 15min (or more)
+3. Chill in fridge for 15 min (or more)
 
 ### Filling
 
@@ -37,7 +41,7 @@ parent: Cake
 3. Separately whip the cream until stiff peaks
 4. Fold whipped cream into cream cheese mixture
 5. Fill the biscuit sheel (in the cake tin) with the mixture and smooth out the top
-6. Cover and let it set in the fridge for 6h
+6. Cover and let it set in the fridge for 6 h
 
 ## Reference
 

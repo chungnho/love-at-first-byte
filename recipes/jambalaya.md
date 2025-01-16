@@ -6,11 +6,12 @@ parent: Recipes
 
 # Jambalaya
 
-Prep time: 1 h
-Cook time: 1 h
-Serves: 6-8
+- Prep time: 1 h
+- Cook time: 1 h
 
 ## Ingredients
+
+Serves: 6-8
 
 - Meat
   - 2-4 Chicken breasts/thighs (diced)

@@ -6,9 +6,12 @@ parent: Recipes
 
 # Cheeseburger Spring Rolls
 
+- Prep time: 1 h
+- Cook time: 30 min
+
 ## Ingredients
 
-Makes ~8
+Makes: ~8
 
 ### Filling
 
@@ -32,7 +35,7 @@ Makes ~8
 1. Make 1 big beef patty - season with salt
 2. Heat skillet to high heat, cook beef patty on one side for 3-5 min to caramelise and gain colour. (Can press a little at the beginning)
 3. Flip (make sure to turn down heat to avoid splashing oil) and cook for 1 min
-4. Finish cooking in oven at 220C (425F) for 3-4 min
+4. Finish cooking in oven at 220 C (425 F) for 3-4 min
 5. Transfer patty to a plate and cool in fridge
 
 ### Rest of dish
@@ -43,4 +46,4 @@ Makes ~8
 
 ## Reference
 
-- https://www.instagram.com/tv/B_jGaZrDmfH/?hl=en
+- [https://www.instagram.com/tv/B_jGaZrDmfH/?hl=en](https://www.instagram.com/tv/B_jGaZrDmfH/?hl=en)

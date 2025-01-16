@@ -6,7 +6,16 @@ parent: Chinese
 
 # Baked Portuguese Pork Chop Rice
 
+- Fried rice prep time: 30 min
+- Pork chop prep time: 15 min
+- Pork chop cook time: 30 min
+- Curry sauce cook time: 1 h
+- Assembly time: 15 min
+- Bake time: 45 min
+
 ## Ingredients
+
+Serves: 6
 
 ### Fried Rice
 
@@ -67,7 +76,7 @@ parent: Chinese
    2. Cook garlic/shallot puree with ginger and butter over medium heat in saucepan for a few minutes until fragrant
    3. Add curry powder, onion powder, shredded coconut, and flour and cook for a few more minutes to toast the spices
    4. Whisk in coconut milk and water
-   5. Simmer for 5-7min until thickened
+   5. Simmer for 5-7 min until thickened
    6. Stir in cheese
 4. Fry pork chops
 

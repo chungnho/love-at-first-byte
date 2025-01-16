@@ -6,7 +6,12 @@ parent: Chinese
 
 # Stir Fried Rice Cakes
 
+- Prep time: 45 min
+- Cook time: 30 min
+
 ## Ingredients
+
+Serves: 4
 
 ### Marinated Pork
 

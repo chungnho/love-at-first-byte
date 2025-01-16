@@ -6,11 +6,12 @@ parent: Chinese
 
 # Siu Yuk (Roasted Pork Belly) (燒肉)
 
-Prep time: 1 h
-Cook time: 1.5 h
-Serves: 4
+- Prep time: 1 h
+- Cook time: 1.5 h
 
 ## Ingredients
+
+Serves: 4
 
 - 1.6 lb Pork belly
 - Dry rub

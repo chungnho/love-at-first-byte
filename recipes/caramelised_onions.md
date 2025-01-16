@@ -6,6 +6,9 @@ parent: Recipes
 
 # Caramelised Onions
 
+- Prep time: 15 min
+- Cook time: 45 min
+
 ## Ingredients (Approx ratios for 1 onion)
 
 - 1 Onion
@@ -24,9 +27,9 @@ parent: Recipes
    1. After 10min, sprinkle with salt and sugar
    2. If it starts to dry out, add some water
    3. If it starts to burn, add some oil
-   4. Lower temperature after 20-30min
+   4. Lower temperature after 20-30 min
 5. Add some balsamic vinegar to deglaze pan and add more flavour
 
 ## Reference
 
-- https://www.simplyrecipes.com/recipes/how_to_caramelize_onions/
+- [https://www.simplyrecipes.com/recipes/how_to_caramelize_onions/](https://www.simplyrecipes.com/recipes/how_to_caramelize_onions/)

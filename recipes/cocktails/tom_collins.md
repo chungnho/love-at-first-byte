@@ -24,7 +24,7 @@ parent: Cocktails
 
 ## Variations
 
-- Earl Grey Collins - Use Earl Grey infused gin (soak an earl grey tea bag in up to 500 mL of gin for ~8h)
+- Earl Grey Collins - Use Earl Grey infused gin (soak an earl grey tea bag in up to 500 mL of gin for ~8 h)
 
 ## Reference
 

@@ -6,6 +6,9 @@ parent: Recipes
 
 # Garlic Butter Baked Salmon
 
+- Prep time: 15 min
+- Cook time: 30 min
+
 ## Ingredients
 
 - ~2 lb Salmon fillet
@@ -26,17 +29,17 @@ parent: Recipes
 
 ## Instructions
 
-1. Preheat oven to 190C (375F); line a pan with greased foil
+1. Preheat oven to 190 C (375 F); line a pan with greased foil
    - Make sure there is enough excess foil to cover the whole salmon in a packet
 2. Whisk garlic butter ingredients together
 3. Place salmon on pan and spoon garlic butter over salmon
 4. Fold sides of foil over salmon and create a sealed packet
-5. Bake in oven for ~15-20min
-   - Internal temperature should reach 58-60C (137-140F)
-6. Garnish with parsley and broil for 1-2min
+5. Bake in oven for ~15-20 min
+   - Internal temperature should reach 58-60 C (137-140 F)
+6. Garnish with parsley and broil for 1-2 min
 
 ## Reference
 
-- https://damndelicious.net/2016/05/23/garlic-butter-salmon-foil/
-- https://cafedelites.com/sheet-pan-garlic-butter-baked-salmon/
-- https://www.wellplated.com/baked-salmon-in-foil/
+- [https://damndelicious.net/2016/05/23/garlic-butter-salmon-foil/](https://damndelicious.net/2016/05/23/garlic-butter-salmon-foil/)
+- [https://cafedelites.com/sheet-pan-garlic-butter-baked-salmon/](https://cafedelites.com/sheet-pan-garlic-butter-baked-salmon/)
+- [https://www.wellplated.com/baked-salmon-in-foil/](https://www.wellplated.com/baked-salmon-in-foil/)

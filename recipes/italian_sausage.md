@@ -6,6 +6,8 @@ parent: Recipes
 
 # Italian Sausage
 
+- Prep time: 15 min
+
 ## Ingredients
 
 - 1.5 lb Pork mince
@@ -31,4 +33,4 @@ parent: Recipes
 
 ## Reference
 
-- https://www.allrecipes.com/recipe/216319/homemade-sweet-italian-sausage-mild-or-hot/
+- [https://www.allrecipes.com/recipe/216319/homemade-sweet-italian-sausage-mild-or-hot/](https://www.allrecipes.com/recipe/216319/homemade-sweet-italian-sausage-mild-or-hot/)

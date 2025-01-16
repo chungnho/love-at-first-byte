@@ -6,7 +6,12 @@ parent: Chinese
 
 # Beef Flat Rice Noodles
 
+- Prep time: 45 min
+- Cook time: 15 min
+
 ## Ingredients
+
+Serves: 4
 
 ### Marinated Beef
 

@@ -4,7 +4,10 @@ title: Lemongrass Pork Chops
 parent: Recipes
 ---
 
-#Lemongrass Pork Chops
+# Lemongrass Pork Chops
+
+- Prep time: 30 min
+- Cook time: 15 min
 
 ## Ingredients
 
@@ -23,8 +26,8 @@ parent: Recipes
 ### Sauce
 
 - 1/2 portion of [Nuoc Cham](./nuoc_cham.md)
-- 15g Carrot (grated) - optional
-- 15g Daikon radish (grated) - optional
+- 15 g Carrot (grated) - optional
+- 15 g Daikon radish (grated) - optional
 - Pinch Red pepper flakes
 
 ## Instructions
@@ -35,8 +38,8 @@ parent: Recipes
 2. Transfer to bowl and whisk in fish sauce and vegetable oil
 3. Coat pork chops and transfer to ziplock bag.
 4. Marinade for:
-   - 30min to 3h at room temperature
-   - Up to 12h in the refrigerator
+   - 30 min to 3 h at room temperature
+   - Up to 12 h in the refrigerator
 
 ### Grilling
 
@@ -46,7 +49,7 @@ parent: Recipes
 
 ## Reference
 
-https://www.seriouseats.com/recipes/2016/08/vietnamese-grilled-pork-chop-thit-heo-nuong-xa-recipe.html
+- [https://www.seriouseats.com/recipes/2016/08/vietnamese-grilled-pork-chop-thit-heo-nuong-xa-recipe.html](https://www.seriouseats.com/recipes/2016/08/vietnamese-grilled-pork-chop-thit-heo-nuong-xa-recipe.html)
 
 ## Notes
 

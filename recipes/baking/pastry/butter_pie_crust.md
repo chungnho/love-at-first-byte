@@ -6,6 +6,8 @@ parent: Pastry
 
 # Butter Pie Crust
 
+- Prep time: 45 min
+
 ## Ingredients
 
 - 313 g All purpose flour

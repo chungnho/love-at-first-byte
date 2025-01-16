@@ -6,6 +6,8 @@ parent: Cookie
 
 # Maracron Shells
 
+- Prep time: 2 h
+
 ## Ingredients
 
 ### Shells
@@ -34,7 +36,7 @@ parent: Cookie
 4. Add flavouring / colouring
 5. Sift almond flour and icing sugar twice
 6. Fold the sifted dry mixture into meringue mixture. 65-75 good strokes - do not overmix or undermix
-7. Preheat the oven to 150C (300F) fan forced - recommend using oven thermometer for accuracy
+7. Preheat the oven to 150 C (300 F) fan forced - recommend using oven thermometer for accuracy
 8. Transfer mixture into piping bag
 9. Pipe into 1 inch disks on baking paper - do not overcrowd as they will spread
 10. Tap the pan hard a few times to release any air bubbles - avoids cracks on the top

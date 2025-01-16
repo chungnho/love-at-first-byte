@@ -6,7 +6,12 @@ parent: Chinese
 
 # Scrambled Egg and Beef Sauce
 
+- Prep time: 15 min
+- Cook time: 15 min
+
 ## Ingredients
+
+Serves: 4
 
 ### Marinated Beef
 

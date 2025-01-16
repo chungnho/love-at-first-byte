@@ -6,6 +6,9 @@ parent: Chinese
 
 # Pork Prawn and Chive Dumplings
 
+- Prep time: 20 min
+- Assembly time: 1.5 h
+
 ## Ingredients
 
 ### Filling

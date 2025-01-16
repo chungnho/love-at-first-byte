@@ -22,7 +22,7 @@ parent: Recipes
 
 ## Reference
 
-https://www.seriouseats.com/recipes/2011/09/sauced-nuoc-cham-recipe.html
+[https://www.seriouseats.com/recipes/2011/09/sauced-nuoc-cham-recipe.html](https://www.seriouseats.com/recipes/2011/09/sauced-nuoc-cham-recipe.html)
 
 ## Notes
 

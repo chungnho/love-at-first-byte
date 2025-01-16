@@ -6,6 +6,9 @@ parent: Recipes
 
 # Beef Malaysian Curry
 
+- Prep time: 30 min
+- Cook time: 1 h
+
 ## Ingredients
 
 - 1 Onion (finely chopped)

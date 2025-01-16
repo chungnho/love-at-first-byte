@@ -6,11 +6,12 @@ parent: Chinese
 
 # Creamed Corn Fish Fillet (粟米斑塊)
 
-Prep time: 30 min
-Cooking time: 45 min
-Serves: 4
+- Prep time: 30 min
+- Cook time: 45 min
 
 ## Ingredients
+
+Serves: 4
 
 ### Fish Fillet
 

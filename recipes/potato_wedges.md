@@ -6,6 +6,9 @@ parent: Recipes
 
 # Potato Wedges
 
+- Prep time: 30 min
+- Cook time: 1 h
+
 ## Ingredients
 
 - 4 medium Potatoes
@@ -25,11 +28,11 @@ parent: Recipes
 4. Drain potatoes and pat dry
 5. Toss potatoes in the seasoning
 6. Lay potatoes on one cut side in large pan lined with baking paper
-7. Bake for 30min, flip and bake for another 25-30min.
+7. Bake for 30 min, flip and bake for another 25-30 min
 
 # Reference
 
-- https://cookieandkate.com/crispy-baked-potato-wedges-recipe/
+- [https://cookieandkate.com/crispy-baked-potato-wedges-recipe/](https://cookieandkate.com/crispy-baked-potato-wedges-recipe/)
 
 # Notes
 

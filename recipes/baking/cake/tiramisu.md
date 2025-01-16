@@ -6,7 +6,11 @@ parent: Cake
 
 # Tiramisu
 
+- Cook time: 2 h
+
 ## Ingredients
+
+Makes: 1 8 inch in tiramisu
 
 ### Sponge cake
 
@@ -44,7 +48,7 @@ parent: Cake
 2. Beat the egg, egg yolks and sugar until thick
 3. Sieve the flour and salt, and fold into the egg mixture
 4. Divide the mixture into two equal portions, pouring each onto a tray lined with baking paper, roughly forming two circular 7 inch mounds
-5. Bake in the oven for 10-12min until golden brown and then let cool
+5. Bake in the oven for 10-12 min until golden brown and then let cool
 
 ### Soak sponge in coffee mixture
 

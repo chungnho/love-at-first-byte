@@ -6,12 +6,17 @@ parent: Cake
 
 # Pavlova
 
+- Prep time: 30 min
+- Cook time: 1.5 h
+
 ## Ingredients
+
+Makes: 1 8 inch pavlova
 
 ### Meringue base
 
 - 5 Egg whites (room temperature)
-- 1.25 cups Caster sugar (ultrafine baker's sugar)
+- 1.25 cup Caster sugar (ultrafine baker's sugar)
 - Pinch of Salt
 - 2 tsp Cornflour
 - 1 tsp White wine vinegar (or pinch of Cream of tartar)
@@ -26,12 +31,12 @@ parent: Cake
 
 ### Meringue base
 
-1. Preheat oven to 170C (340F) fan-forced
+1. Preheat oven to 170 C (340 F) fan-forced
 2. Beat egg whites with salt until stiff peaks
 3. Gradually add sifted caster sugar until the mixture is stiff and shiny
 4. Fold in cornflour, vinegar and vanilla extract
-5. Spread onto baking paper in a ~20cm diameter circle as a smooth disk
-6. Place in oven, reduce temperature to 120C (240F), and bake for 1.5h
+5. Spread onto baking paper in a ~20 cm diameter circle as a smooth disk
+6. Place in oven, reduce temperature to 120 C (240 F), and bake for 1.5 h
 7. Cool in oven with door cracked open (until completely cooled)
 
 ### Serve

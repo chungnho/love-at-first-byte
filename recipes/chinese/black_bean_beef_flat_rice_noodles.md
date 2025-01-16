@@ -6,6 +6,9 @@ parent: Chinese
 
 # Black Bean Beef Flat Rice Noodles
 
+- Prep time: 45 min
+- Cook time: 20 min
+
 ## Ingredients
 
 ### Marinated Beef
@@ -51,7 +54,6 @@ See [beef marinade](./beef_marinade.md)
 
 ## Notes
 
-- Do not use a high IBU IPA (makes dish bitter)
 - Check salt level (it was a tad salty last time so this has the sauce halved)
 - Add sugar gradually
 - Maybe use some chicken bouillion / stock instead of just water at step 8.

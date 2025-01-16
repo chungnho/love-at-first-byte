@@ -6,11 +6,12 @@ parent: Recipes
 
 # Pad Gaprao
 
-Prep time: 30 min
-Cooking time: 20 min
-Serves: 4
+- Prep time: 30 min
+- Cook time: 20 min
 
 ## Ingredients
+
+Serves: 4
 
 - 1 lb Pork mince
 - 1 lb Green beans (trimmed, cut to 1 cm segmennts)

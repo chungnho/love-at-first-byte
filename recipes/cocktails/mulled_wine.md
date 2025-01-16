@@ -6,11 +6,12 @@ parent: Cocktails
 
 # Mulled Wine
 
-Prep time: 10 min
-Cooking time: 20 min
-Serves: 4
+- Prep time: 10 min
+- Cook time: 20 min
 
 ## Ingredients
+
+Serves: 4
 
 - 750 mL Wine (dry red)
 - 1/4 cup Brandy

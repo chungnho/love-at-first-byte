@@ -6,6 +6,8 @@ parent: Cookie
 
 # Ube Maracrons
 
+- Prep time: 1 h
+
 ## Ingredients
 
 ### Shells

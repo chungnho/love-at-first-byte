@@ -6,7 +6,13 @@ parent: Chinese
 
 # Radish Cake
 
+- Prep time: 1 h
+- Assembly time: 30 min
+- Cook time: 1-1.5 h
+
 ## Ingredients
+
+Makes: 1 8 inch radish cake
 
 ### Main
 

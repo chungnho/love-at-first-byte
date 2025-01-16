@@ -6,6 +6,8 @@ parent: Chinese
 
 # Beef Marinade for Stir Fry
 
+- Prep time: 5 min
+
 ## Ingredients
 
 - 340 g (3/4 lb) Thinly sliced flank steak (sliced against the grain)

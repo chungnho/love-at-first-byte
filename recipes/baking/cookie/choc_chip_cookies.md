@@ -6,6 +6,9 @@ parent: Cookie
 
 # Choc Chip Cookies
 
+- Prep time: 30 min
+- Cook time: 20 min
+
 ## Ingredients
 
 - 125 g (4.5 oz) Salted butter, softened (not melted)
@@ -20,7 +23,7 @@ parent: Cookie
 
 ## Instructions
 
-1. Preheat oven to 160C (320F) fan-forced; line baking trays with baking paper
+1. Preheat oven to 160 C (320 F) fan-forced; line baking trays with baking paper
 2. Beat butter, caster sugar, brown sugar and vanilla together until pale and creamy
 3. Add the egg and beat until well combined
 4. Mix the all-purpose flour and self-raising flour together in a small bowl
